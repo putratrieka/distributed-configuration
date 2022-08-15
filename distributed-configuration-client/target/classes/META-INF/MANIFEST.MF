@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Built-By: triputra
 Build-Jdk: 17.0.2
 Implementation-Title: configuration client
-Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Version: 0.0.1-SNAPSHOT-TEST
 Implementation-Vendor-Id: com.tri.eka
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
  -starter-parent/distributed-configuration/distributed-configuration-cli

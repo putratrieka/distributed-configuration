@@ -1,0 +1,2 @@
+server.port=9090
+tdisconf.classpath=com.tri.eka
