@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.tri.eka</groupId>
 		<artifactId>distributed-configuration</artifactId>
-		<version>0.0.1-SNAPSHOT-TEST</version>
+		<version>0.0.0.1-2-SNAPSHOT</version>
 	</parent>
 	<artifactId>distributed-configuration-client</artifactId>
 	<name>configuration client</name>
