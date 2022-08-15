@@ -1,15 +1,39 @@
-*/target/
-target
+HELP.md
+/target/
 !.mvn/wrapper/maven-wrapper.jar
-.DS_Store
-*.class
-*.jar
+/logs/
+/log/
+/disconf/
+/mvn-artifact/
 
 ### STS ###
 .apt_generated
+.apt_generated_tests
 .classpath
 .factorypath
 .project
 .settings
 .springBeans
 .sts4-cache
+.mvn
+mvnw
+mvnw.cmd
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+/.metadata/
+/.metadata/
