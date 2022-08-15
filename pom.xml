@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tri.eka</groupId>
 	<artifactId>distributed-configuration</artifactId>
-	<version>0.0.1-SNAPSHOT-TEST</version>
+	<version>0.0.0.1-2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<parent>
