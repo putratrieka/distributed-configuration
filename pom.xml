@@ -1,6 +1,8 @@
 ===  Changed *1  #2......
 
-=== Changed *2   #2 =====
+=== Changed *3   #3 =====
+
+=== Changed *4 ===== 
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
